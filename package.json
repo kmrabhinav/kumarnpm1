@@ -1,0 +1,22 @@
+{
+  "name": "kumar",
+  "version": "1.0.0",
+  "description": "Kumar",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmr.abhinav%40gmail.com/kumarnpm.git"
+  },
+  "keywords": [
+    "kumar"
+  ],
+  "author": "kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmr.abhinav%40gmail.com/kumarnpm/issues"
+  },
+  "homepage": "https://github.com/kmr.abhinav%40gmail.com/kumarnpm#readme"
+}
